@@ -5,7 +5,7 @@
 
 ---
  
-<table border="0">
+<table width="100%">
   <tr>
     <td width="75%" align="left" valign="top">
       <ul>
