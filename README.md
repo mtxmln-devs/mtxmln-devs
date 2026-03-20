@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b>
 - 🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b>
 - 💬 Ask me about: <b>Full stack development, AI, and IT Support</b>
--📫 How to reach me: <b>matttaway11@gmail.com</b>
--⚡ Fun fact: <b>I hate semicolons</b>
+- 📫 How to reach me: <b>matttaway11@gmail.com</b>
+- ⚡ Fun fact: <b>I hate semicolons</b>
     
 
 ---
