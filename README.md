@@ -16,7 +16,7 @@
 #### 🧠 Artificial Intelligence
 <table align="left">
   <tr>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="chatgpt" width="100" height="80"/></td>
+    <td align="center" width="120"><img src=https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" width="100" height="80"/></td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="100" height="80"/></td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="copilot" width="100" height="80"/></td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/perplexity/perplexity-icon.svg" alt="perplexity" width="100" height="80"/></td>
