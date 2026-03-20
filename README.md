@@ -138,6 +138,8 @@
   <img src="https://streak-stats.demolab.com?user=mtxmln-devs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtxmln-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
