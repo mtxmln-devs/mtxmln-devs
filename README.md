@@ -4,9 +4,10 @@
 <h4 align="center">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h3>
 
 ---
-<table> 
+ 
+<table border="0">
   <tr>
-    <td align="left">
+    <td width="75%" align="left" valign="top">
       <ul>
         <li>🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b></li>
         <li>🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b></li>
@@ -15,11 +16,12 @@
         <li>⚡ Fun fact: <b>I hate semicolons</b></li>
       </ul>
     </td>
-    <td align="right">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="180"/>
+    <td width="25%" align="right" valign="top">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="200"/>
     </td>
   </tr>
 </table>
+
 
 
 ---
