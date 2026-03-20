@@ -4,12 +4,13 @@
 <h4 align="center">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h3>
 
 ---
-<div align="right"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="180"></div>
+<div align="right"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="180">
 <div align: left; margin-left: -200px;>- 🔭 I’m currently working on: **Python, C#, C, Leaflet.js projects**
 - 🌱 I’m currently learning: **Python, C#, C, Leaflet.js**
 - 💬 Ask me about: **Full stack development, AI, and IT Support**
 - 📫 How to reach me: **matttaway11@gmail.com**
 - ⚡ Fun fact: **I hate semicolons**</div>
+</div>
 
 
 ---
