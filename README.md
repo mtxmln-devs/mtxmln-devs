@@ -9,11 +9,11 @@
 
   <div align="left" style="display: inline-block; text-align: left;">
     <ul>
-      <li>🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b></li>
-      <li>🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b></li>
-      <li>💬 Ask me about: <b>Full stack development, AI, and IT Support</b></li>
-      <li>📫 How to reach me: <b>matttaway11@gmail.com</b></li>
-      <li>⚡ Fun fact: <b>I hate semicolons</b></li>
+      <li>## 🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b></li>
+      <li>## 🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b></li>
+      <li>## 💬 Ask me about: <b>Full stack development, AI, and IT Support</b></li>
+      <li>## 📫 How to reach me: <b>matttaway11@gmail.com</b></li>
+      <li>## ⚡ Fun fact: <b>I hate semicolons</b></li>
     </ul>
 
 
