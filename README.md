@@ -12,7 +12,6 @@
 - 📫 How to reach me: <b>matttaway11@gmail.com</b>
 - ⚡ Fun fact: <b>I hate semicolons</b>
     
-
 ---
 
 ### 🚀 Tech Stacks
@@ -112,11 +111,12 @@
 ---
 
 ## 📖 Developing proficiency in
-- ** Leaflet.js **: Open-source JavaScript library designed to build mobile-friendly, interactive maps that are lightweight and easy to integrate into web applications.
-- ** Python **: High-level programming language used for Machine Learning, Web Development, Data Science. 
-- ** C **:  Standard programming language for Systems Programming. 
-- ** C# **: Modern, object-oriented programming language building a secure and robust applications.
+- Leaflet.js : Open-source JavaScript library designed to build mobile-friendly, interactive maps that are lightweight and easy to integrate into web applications.
+- Python : High-level programming language used for Machine Learning, Web Development, Data Science. 
+- C :  Standard programming language for Systems Programming. 
+- C# : Modern, object-oriented programming language building a secure and robust applications.
 
+---
 
 
 
