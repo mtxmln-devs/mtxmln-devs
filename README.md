@@ -5,11 +5,11 @@
 
 ---
     
-🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b></li>
-🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b></li>
-💬 Ask me about: <b>Full stack development, AI, and IT Support</b></li>
-📫 How to reach me: <b>matttaway11@gmail.com</b></li>
-⚡ Fun fact: <b>I hate semicolons</b></li>
+-- 🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b></li>
+-🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b></li>
+-💬 Ask me about: <b>Full stack development, AI, and IT Support</b></li>
+-📫 How to reach me: <b>matttaway11@gmail.com</b></li>
+-⚡ Fun fact: <b>I hate semicolons</b></li>
     
 
 ---
