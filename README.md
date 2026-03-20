@@ -134,7 +134,8 @@
   <img src="https://streak-stats.demolab.com?user=mtxmln-devs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/mtxmln-devs/mtxmln-devs/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/mtxmln-devs/mtxmln-devs/output/snake.svg" alt="Snake animation" />
 
 
