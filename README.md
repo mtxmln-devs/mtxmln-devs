@@ -111,6 +111,14 @@
 
 ---
 
+## 📖 Developing proficiency in
+- ** Leaflet.js **: Open-source JavaScript library designed to build mobile-friendly, interactive maps that are lightweight and easy to integrate into web applications.
+- ** Python **: High-level programming language used for Machine Learning, Web Development, Data Science. 
+- ** C **:  Standard programming language for Systems Programming. 
+- ** C# **: Modern, object-oriented programming language building a secure and robust applications.
+
+
+
 
 <div align="center">
 
