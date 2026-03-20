@@ -15,9 +15,7 @@
       <li>📫 How to reach me: <b>matttaway11@gmail.com</b></li>
       <li>⚡ Fun fact: <b>I hate semicolons</b></li>
     </ul>
-  </div>
 
-  <br/>
 
   <div align:right; margin-top: -200px><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="150" /></div>
 
