@@ -1,6 +1,6 @@
 ## Mark Laurence Taway 👋
 ---
-<h1 align="center">Hi there! I'm Mark Laurence Taway</h1>
+<h1 align="left">Hi there! I'm Mark Laurence Taway</h1>
 <h3 align="center">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h3>
 
 ---
@@ -133,5 +133,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mtxmln-devs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
