@@ -1,4 +1,4 @@
-## Mark Laurence Taway 👋
+[## Mark Laurence Taway 👋
 ---
 <h1 align="center">Hi there! I'm Mark Laurence Taway</h1>
 <h3 align="center">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h3>
@@ -81,3 +81,4 @@
 
 ---
 
+](https://github.com/marwin1991/profile-technology-icons)
