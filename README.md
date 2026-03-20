@@ -4,14 +4,24 @@
 <h4 align="center">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h3>
 
 ---
-<div align="right"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="180"></div>
+<table width="100%">
+  <tr>
+    
+    <td align="left">
+      <ul>
+        <li>🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b></li>
+        <li>🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b></li>
+        <li>💬 Ask me about: <b>Full stack development, AI, and IT Support</b></li>
+        <li>📫 How to reach me: <b>matttaway11@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>I hate semicolons</b></li>
+      </ul>
+    </td>
 
-##
-- 🔭 I’m currently working on: **Python, C#, C, Leaflet.js projects**
-- 🌱 I’m currently learning: **Python, C#, C, Leaflet.js**
-- 💬 Ask me about: **Full stack development, AI, and IT Support**
-- 📫 How to reach me: **matttaway11@gmail.com**
-- ⚡ Fun fact: **I hate semicolons**
+    <td align="right">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="180"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
