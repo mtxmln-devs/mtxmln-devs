@@ -118,3 +118,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtxmln-devs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
