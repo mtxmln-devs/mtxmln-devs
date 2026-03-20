@@ -119,12 +119,6 @@
 ---
 
 
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtxmln-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ### 📬 Let's Connect
 <p align="left">
 <a href="mailto:matttaway11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -134,6 +128,8 @@
 </p>
 
 ---
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtxmln-devs&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -142,7 +138,9 @@
   <img src="https://streak-stats.demolab.com?user=mtxmln-devs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtxmln-devs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
