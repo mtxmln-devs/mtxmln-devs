@@ -49,7 +49,7 @@
     <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="80"/></td>
   </tr>
 </table>
-<br>
+<br><br></br>
 
 #### ⚙️ Backend, DB & Tools
 <table align="left">
