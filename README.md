@@ -1,17 +1,15 @@
----
 ##
 <h1 align="left">Hi there! I'm Mark Laurence Taway 👋</h1>
-<h4 align="center">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h3>
+<h4 align="left">An aspiring Full Stack Developer, building the logic that powers the web and the animations that make it feel alive.</h4>
 
 ---
 
+- 🔭 I’m currently working on: **Python, C#, C, Leaflet.js projects**
+- 🌱 I’m currently learning: **Python, C#, C, Leaflet.js**
+- 💬 Ask me about: **Full stack development, AI, and IT Support**
+- 📫 How to reach me: **matttaway11@gmail.com**
+- ⚡ Fun fact: **I hate semicolons**
 
-- 🔭 I’m currently working on: <b>Python, C#, C, Leaflet.js projects</b>
-- 🌱 I’m currently learning: <b>Python, C#, C, Leaflet.js</b>
-- 💬 Ask me about: <b>Full stack development, AI, and IT Support</b>
-- 📫 How to reach me: <b>matttaway11@gmail.com</b>
-- ⚡ Fun fact: <b>I hate semicolons</b>
-    
 ---
 
 ### 🚀 Tech Stacks
@@ -23,86 +21,91 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-23292f?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
 </div>
-<br>
 
 #### 💻 Programming Languages
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="80"/></td>
-  </tr>
-</table>
-<br><br><br></br>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 #### 🌐 Web Development (Frontend & Frameworks)
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="80"/></td>
-  </tr>
-</table>
-<br><br><br><br><br>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 #### ⚙️ Backend, DB & Tools
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="80"/></td>
-  </tr>
-</table>
-<br><br><br></br>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 #### 📱 Mobile & Hardware
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="100" height="80"/></td>
-  </tr>
-</table>
-<br><br><br></br>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="expo" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 #### 🎨 Design & UI/UX
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="100" height="80"/></td>
-  </tr>
-</table>
-<br><br><br></br>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 #### 🖥️ OS & Workspace
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="100" height="80"/></td>
-  </tr>
-</table>
-<br></br>
-
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 #### 🛠️ IDEs & Productivity
-<table align="left">
-  <tr>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/sublimetext/sublimetext-icon.svg" alt="sublime" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg" alt="edge" width="100" height="80"/></td>
-  </tr>
-</table>
-<br><br><br><br></br>
+<div align="left">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/sublimetext/sublimetext-icon.svg" alt="sublime" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" alt="chrome" width="100" height="80"/></td>
+      <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg" alt="edge" width="100" height="80"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
