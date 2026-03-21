@@ -36,7 +36,7 @@
     <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="80"/></td>
   </tr>
 </table>
-<br><br><br>
+<br><br><br></br>
 
 #### 🌐 Web Development (Frontend & Frameworks)
 <table align="left">
