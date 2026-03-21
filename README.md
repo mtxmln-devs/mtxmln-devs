@@ -36,7 +36,7 @@
     <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="80"/></td>
   </tr>
 </table>
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 #### 🌐 Web Development (Frontend & Frameworks)
 <table align="left">
@@ -49,7 +49,7 @@
     <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="80"/></td>
   </tr>
 </table>
-<br/>
+<br>
 
 #### ⚙️ Backend, DB & Tools
 <table align="left">
@@ -61,7 +61,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="80"/></td>
   </tr>
 </table>
-<br/>
+<br>
 
 #### 📱 Mobile & Hardware
 <table align="left">
@@ -71,7 +71,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="100" height="80"/></td>
   </tr>
 </table>
-<br/>
+<br>
 
 #### 🎨 Design & UI/UX
 <table align="left">
@@ -80,7 +80,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="100" height="80"/></td>
   </tr>
 </table>
-<br/>
+<br>
 
 #### 🖥️ OS & Workspace
 <table align="left">
@@ -92,7 +92,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="100" height="80"/></td>
   </tr>
 </table>
-<br/>
+<br>
 
 #### 🛠️ IDEs & Productivity
 <table align="left">
@@ -103,7 +103,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg" alt="edge" width="100" height="80"/></td>
   </tr>
 </table>
-<br/>
+<br>
 
 ---
 
