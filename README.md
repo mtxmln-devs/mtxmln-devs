@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub_Copilot-23292f?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
 </div>
-<br><br>
+<br>
 
 #### 💻 Programming Languages
 <table align="left">
