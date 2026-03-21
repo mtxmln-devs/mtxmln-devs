@@ -102,7 +102,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg" alt="edge" width="100" height="80"/></td>
   </tr>
 </table>
-<br></br>
+<br><br><br><br></br>
 
 ---
 
