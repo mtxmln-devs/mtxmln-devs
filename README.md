@@ -86,8 +86,6 @@
 <table align="left">
   <tr>
     <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="80"/></td>
-    <td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="100" height="80"/></td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="100" height="80"/></td>
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="100" height="80"/></td>
   </tr>
@@ -104,7 +102,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/microsoft_edge/microsoft_edge-icon.svg" alt="edge" width="100" height="80"/></td>
   </tr>
 </table>
-<br>
+<br></br>
 
 ---
 
