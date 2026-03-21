@@ -156,11 +156,13 @@
 ---
 
 
-### Certifications
-
+#### 🏆 Certifications
+- National Certificate II: Technical Education and Skills Development Authority (TESDA) certification in the Philippines.
+- Work Immersion Certificate: Required 80+ hours DepEd Senior High School subject where students experience real workplace settings to apply specialized skills, develop work ethics, and prepare for employment or higher education. 
 
 
 ---
+
 ### 📬 Let's Connect
 <p align="left">
 <a href="mailto:matttaway11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -169,8 +171,6 @@
 <a href="https://t.me/mattximilian_11"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://discord.com/invite/mtxmln11"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
-
 ---
 
 
