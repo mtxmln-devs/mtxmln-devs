@@ -71,7 +71,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="100" height="80"/></td>
   </tr>
 </table>
-<br>
+<br><br><br><br>
 
 #### 🎨 Design & UI/UX
 <table align="left">
