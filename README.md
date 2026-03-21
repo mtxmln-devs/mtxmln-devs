@@ -146,6 +146,7 @@
 </div>
 
 #### 💻 Workspace Specs
+<div align="left">
   <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 </div>
