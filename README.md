@@ -163,6 +163,14 @@
 
 ---
 
+## Objectives as Full Stack Developer
+- Master the full software lifecycle from design to deployment.
+- Balance front-end UI mastery with back-end, database, and cloud proficiency, while leveraging AI for productivity.
+- Integrating Generative AI tools (e.g., GitHub Copilot) into the daily workflow to speed up coding, testing, and debugging.
+
+
+---
+
 ## 📬 Let's Connect
 <p align="left">
 <a href="mailto:matttaway11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
