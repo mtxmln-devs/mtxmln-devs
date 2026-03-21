@@ -167,13 +167,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtxmln-devs&show_icons=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=mtxmln-devs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtxmln-devs&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula" height="170" />
-</p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtxmln-devs&show_icons=true&theme=radical" height="170" />
