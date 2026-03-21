@@ -17,8 +17,8 @@
 ### 🚀 Tech Stacks
 
 #### 🧠 Artificial Intelligence
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
-<" />br/><br/><br/><br/><br/><br/>
+<td align="center" width="120">< img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<br/><br/><br/><br/><br/><br/>
 
 #### 💻 Programming Languages
 <table align="left">
