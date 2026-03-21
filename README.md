@@ -80,7 +80,7 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="100" height="80"/></td>
   </tr>
 </table>
-<br></br>
+<br><br><br></br>
 
 #### 🖥️ OS & Workspace
 <table align="left">
@@ -92,7 +92,8 @@
     <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="100" height="80"/></td>
   </tr>
 </table>
-<br>
+<br></br>
+
 
 #### 🛠️ IDEs & Productivity
 <table align="left">
