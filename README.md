@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: **Python, C#, C, Leaflet.js projects**
 - 🌱 I’m currently learning: **Python, C#, C, Leaflet.js**
-- 💬 Ask me about: **Full stack development, AI, and IT Support**
+- 💬 Ask me about: **Modern Tooling, Database Management, Web Architecture **
 - 📫 How to reach me: **matttaway11@gmail.com**
 - ⚡ Fun fact: **I hate semicolons**
 
