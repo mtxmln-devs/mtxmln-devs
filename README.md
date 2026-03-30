@@ -50,10 +50,13 @@
   <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white " />
   <img src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white " />
   <img src="https://img.shields.io/badge/HTML%20Academy-302683?style=for-the-badge&logo=HTML%20Academy&logoColor=white " />
-  <img src=" " />
-  <img src=" " />
-  <img src=" " />
-  <img src=" " />
+  <img src="https://img.shields.io/badge/Kahoot-46178F?style=for-the-badge&logo=Kahoot&logoColor=white " />
+  <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white " />
+  <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white " />
+  <img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" />
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white " />
+  <img src="https://img.shields.io/badge/academia-4287f5?style=for-the-badge&logo=academia&logoColor=02db9e " />
 </div>
 
 #### 🚀 Frameworks and Libraries
