@@ -159,7 +159,7 @@
 
 ## 🏆 Certifications
 - National Certificate II: Technical Education and Skills Development Authority (TESDA) certification in the Philippines.
-- Work Immersion Certificate: Required 80+ hours DepEd Senior High School subject where students experience real workplace settings to apply specialized skills, develop work ethics, and prepare for employment or higher education. 
+- Work Immersion Certificate: 80+ hours DepEd Senior High School subject where students experience real workplace settings to apply specialized skills, develop work ethics, and prepare for employment or higher education. 
 
 
 ---
