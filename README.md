@@ -16,12 +16,22 @@
 <h1 align=""left 🚀 Tech Stacks </h1> 
 
 #### 🤖 Artificial Intelligence Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-23292f?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <div align="left">
+  <a href="https://chatgpt.com">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  </a> 
+  <a href="https://claude.ai">
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  </a>
+  <a href="https://github.com/features/copilot">
+    <img src="https://img.shields.io/badge/GitHub_Copilot-23292f?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  </a>
+  <a href="https://www.perplexity.ai">
+    <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
+  </a>
+  <a href="https://gemini.google.com">
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  </a>
 </div>
 
 #### ⚡ Database 
